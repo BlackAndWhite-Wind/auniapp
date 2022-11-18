@@ -1,0 +1,15 @@
+server:
+  port: 8090
+spring:
+  application:
+    name: hm_shop_data
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/hm_shop?characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: 12345678
+mybatis-plus:
+  type-aliases-package: com.mrti.shopdata.entity
+  mapper-locations: classpath:/mybatis/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl  #mybatisplus控制台输出sql及数据

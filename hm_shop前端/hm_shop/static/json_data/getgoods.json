@@ -1,0 +1,303 @@
+
+{
+	"describe":"获取商品列表  请求方式：GET",
+	"status": 200,
+	"message": [{
+			"id": 87,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 204,
+			"title": "女士大品牌服装",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/a93400983971d2e8.jpg",
+			"sell_price": 39,
+			"market_price": 159,
+			"stock_quantity": 60
+		},
+		{
+			"id": 88,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 302,
+			"title": "男士格子衬衫",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "男士格子衬衫 穿上好看",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/549a74d94ae2a65e.jpg",
+			"sell_price": 19,
+			"market_price": 99,
+			"stock_quantity": 60
+		},
+		{
+			"id": 89,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 90,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 202,
+			"title": "女士大品牌服装",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/a93400983971d2e8.jpg",
+			"sell_price": 129,
+			"market_price": 368,
+			"stock_quantity": 60
+		},
+		{
+			"id": 301,
+			"title": "男士格子衬衫",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/549a74d94ae2a65e.jpg",
+			"sell_price": 19,
+			"market_price": 99,
+			"stock_quantity": 60
+		},
+		{
+			"id": 91,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 92,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 201,
+			"title": "女士大品牌服装",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/a93400983971d2e8.jpg",
+			"sell_price": 19,
+			"market_price": 199,
+			"stock_quantity": 60
+		},
+		{
+			"id": 93,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 304,
+			"title": "男士格子衬衫",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "男士格子衬衫 穿上好看",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/549a74d94ae2a65e.jpg",
+			"sell_price": 19,
+			"market_price": 99,
+			"stock_quantity": 60
+		},
+		{
+			"id": 94,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 203,
+			"title": "女士大品牌服装",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/a93400983971d2e8.jpg",
+			"sell_price": 29,
+			"market_price": 599,
+			"stock_quantity": 60
+		},
+		{
+			"id": 95,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 305,
+			"title": "男士格子衬衫",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/549a74d94ae2a65e.jpg",
+			"sell_price": 19,
+			"market_price": 99,
+			"stock_quantity": 60
+		},
+		{
+			"id": 96,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 97,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 98,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 99,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 302,
+			"title": "男士格子衬衫",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "男士格子衬衫 穿上好看",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/549a74d94ae2a65e.jpg",
+			"sell_price": 19,
+			"market_price": 99,
+			"stock_quantity": 60
+		},
+		{
+			"id": 209,
+			"title": "女士大品牌服装",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/a93400983971d2e8.jpg",
+			"sell_price": 39,
+			"market_price": 159,
+			"stock_quantity": 60
+		},
+		{
+			"id": 100,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		},
+		{
+			"id": 208,
+			"title": "女士大品牌服装",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "女士大品牌服装",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/a93400983971d2e8.jpg",
+			"sell_price": 39,
+			"market_price": 159,
+			"stock_quantity": 60
+		},
+		{
+			"id": 306,
+			"title": "男士格子衬衫",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "男士格子衬衫 穿上好看",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/549a74d94ae2a65e.jpg",
+			"sell_price": 19,
+			"market_price": 99,
+			"stock_quantity": 60
+		},
+		{
+			"id": 101,
+			"title": "华为MATE 40PRO 麒麟9000 5G芯片，限量销售",
+			"add_time": "2015-04-19T16:51:03.000Z",
+			"zhaiyao": "荣耀6 Plus，该机型分为两款型号，分别为PE-",
+			"click": 0,
+			"img_url": "https://s3.bmp.ovh/imgs/2022/04/02/08ed027169a36bf4.jpg",
+			"sell_price": 2195,
+			"market_price": 3999,
+			"stock_quantity": 60
+		}
+	]
+}

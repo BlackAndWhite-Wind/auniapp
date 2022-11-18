@@ -1,0 +1,1 @@
+<view><block wx:if="{{detail=='n'}}"><text>暂无相关数据</text></block><view class="news_detail"><block wx:if="{{detail!='n'}}"><view><text>{{detail.title}}</text><view class="info"><text>{{detail.addTime}}</text><text>{{"浏览："+detail.click}}</text></view><view class="content"><rich-text nodes="{{detail.content}}"></rich-text></view></view></block></view></view>
